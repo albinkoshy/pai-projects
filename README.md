@@ -12,4 +12,4 @@ Bayesian Neural Network using approximate inference via [SWA-Gaussian (SWAG)](ht
 Finding best drug candidate which maximizes the candidate's corresponding bioavailibility (logP) while satisfying a constraint on synthesizability. Bayesian Optimization using Upper Confidence Bound (UCB) acquisition functions.
 
 ## Project 4: Reinforcement Learning
-Solving the inverted pendulum problem using the off-policy Soft Actor Critic RL algorithm.
+Solving the inverted pendulum problem using the off-policy [Soft Actor Critic](https://arxiv.org/pdf/1801.01290.pdf) RL algorithm.
